@@ -1,0 +1,15 @@
+body           { text-align: center;
+                 background-color: #bb9911 }
+.bold          { font-weight: bold; }
+.bigFont       { font-family: helvetica, arial, sans-serif;
+                 font-weight: bold;
+                 font-size: 2em;
+                 color: #ffffff; }
+.italic        { font-style: italic; }
+.right         { text-align: right; }
+table, th, td  { border: 1px groove;
+                 padding: 5px; }
+table          { background-color: #ffbb33; 
+                 margin-left: auto;
+                 margin-right: auto; }
+
